@@ -1,0 +1,7 @@
+C:\Users\oliver.boudet\Documents\Visual Studio 2017\Projects\Char counter\Char counter\bin\Debug\Char counter.exe.config
+C:\Users\oliver.boudet\Documents\Visual Studio 2017\Projects\Char counter\Char counter\bin\Debug\Char counter.exe
+C:\Users\oliver.boudet\Documents\Visual Studio 2017\Projects\Char counter\Char counter\bin\Debug\Char counter.pdb
+C:\Users\oliver.boudet\Documents\Visual Studio 2017\Projects\Char counter\Char counter\obj\Debug\Char counter.csprojResolveAssemblyReference.cache
+C:\Users\oliver.boudet\Documents\Visual Studio 2017\Projects\Char counter\Char counter\obj\Debug\Char counter.csproj.CoreCompileInputs.cache
+C:\Users\oliver.boudet\Documents\Visual Studio 2017\Projects\Char counter\Char counter\obj\Debug\Char counter.exe
+C:\Users\oliver.boudet\Documents\Visual Studio 2017\Projects\Char counter\Char counter\obj\Debug\Char counter.pdb
